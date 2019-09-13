@@ -1,0 +1,37 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 35.575 s <<< FAILURE! - in TestSuite
+placeOrderTest(com.virgin.test.impl.OrderTest)  Time elapsed: 6.657 s  <<< FAILURE!
+java.lang.AssertionError: 
+chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'LSTKMY230457', ip: '192.168.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: C:\Users\MARCO~1.CAR\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:57394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 235f6a6b2f1c6a26285b039c8804defd
+	at com.virgin.test.impl.OrderTest.placeOrderTest(OrderTest.java:132)
+
+placeOrderTest(com.virgin.test.impl.OrderTest)  Time elapsed: 6.156 s  <<< FAILURE!
+java.lang.AssertionError: 
+chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'LSTKMY230457', ip: '192.168.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: C:\Users\MARCO~1.CAR\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:57394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 235f6a6b2f1c6a26285b039c8804defd
+	at com.virgin.test.impl.OrderTest.placeOrderTest(OrderTest.java:132)
+
+placeOrderTest(com.virgin.test.impl.OrderTest)  Time elapsed: 6.141 s  <<< FAILURE!
+java.lang.AssertionError: 
+chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'LSTKMY230457', ip: '192.168.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: C:\Users\MARCO~1.CAR\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:57394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 235f6a6b2f1c6a26285b039c8804defd
+	at com.virgin.test.impl.OrderTest.placeOrderTest(OrderTest.java:132)
+
